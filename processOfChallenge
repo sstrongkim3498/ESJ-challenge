@@ -61,4 +61,23 @@ Routing parameter사용하기
 /post/~~ 치면
 console창에 ~~ 나오게 하기
 
+17.
+Ex) title의 이름을 123이라고 했을 때, /posts/Test라고 치면 콘솔 창에 "Match found"를 뜨게 하라.
+주의사항: forEach의 신기한 특성 이용하라.
+
+18.
+잘못된 posts/~ 쓰면 "Not a Match" 콘솔에 뜨게 하기
+~에 대문자와 소문자를 똑같이 취급하게 하고, space는 - 로 처리하게 한다.
+Loadash module 사용하기
+
+19.
+Posts/~ 치고 들어가면 ~에 해당하는 파일만 있는 ejs로 가기
+- 새로운 post파일 만들기
+
+20.
+Home 화면에 paragraph characters 수 100개만 보이게 하기.
+
+21. 
+Home에서 각각의 paragraph 옆에 read more이라는 글자 넣고, 누르면 그 페이지로 가게 하기
+
 
