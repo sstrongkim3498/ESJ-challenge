@@ -28,3 +28,37 @@ Text input 과 버튼을 만든다.
 8.
 Text input에 쓴 글씨 console로그에 나타나게 하기
 
+9. 
+Bootstrap 사용하기
+H6 title 만들고
+Input text 넣기
+H6 post만들고
+Input text 넣기
+
+10.
+input에 넣은 것들 저장하기
+opject사용하기
+
+11.
+input한 것 array로 저장하기
+Publish button 누루면 /로 돌아가기
+
+12.
+app.js에서 post console.log 삭제하기
+Console.log를 home.ejs에 넣는다.
+
+13.
+Public button 누를 때마다 console창에 지금까지 적은 title들 전부 다 나오게 하기
+
+14.
+13을 forEach로 바꾸기
+
+15.
+home화면에 내가 적은 것들 나타나게 하기
+
+16.
+Routing parameter사용하기
+/post/~~ 치면
+console창에 ~~ 나오게 하기
+
+
